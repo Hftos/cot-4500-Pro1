@@ -11,6 +11,10 @@ This repository contains the implementation of four numerical algorithms in pyth
 
 The repository follows the structure detailed in the assignment.
 
+## Requirements
+
+- Python 3.x
+
 ## How to run
 
 1. Clone the repository
